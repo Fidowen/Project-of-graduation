@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Demo/unityProject.vrmanifest
+Demo/.vsconfig
+Demo/obj/
+Demo/UserSettings/
+Demo/Logs/
+Demo/.vscode/
+Demo/Library/

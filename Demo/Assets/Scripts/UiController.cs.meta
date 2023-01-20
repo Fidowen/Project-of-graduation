@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 53186e5556fc7cf449664ffb147248bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Setting_Ui: {fileID: 1468403703687521808, guid: f3dde04634e8f1e4a8e57e865df67e10, type: 3}
+  - Pause_Ui: {fileID: 7398008163770261081, guid: 79cb5be9da9a08e45b4813a2a1ec3f96, type: 3}
+  - Die_ui: {instanceID: 0}
+  - Success_Ui: {instanceID: 0}
+  - GameIndex_Ui: {instanceID: 0}
+  - musicControll: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: 3667e0498c502e44a9c4da853703f62b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
